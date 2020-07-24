@@ -1,0 +1,6 @@
+_main: CODE, 1971 0 77
+_UART_get_char: CODE, 1896 0 18
+_UART_send_string: CODE, 1938 0 33
+_UART_send_char: CODE, 1884 0 12
+_Initialize_UART: CODE, 1914 0 24
+Total: 164

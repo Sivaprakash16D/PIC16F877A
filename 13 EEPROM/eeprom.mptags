@@ -1,0 +1,27 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+Data_read	C:\Users\Siva\Documents\PIC16F877A\EEPROM\eeprom.c	19;"	l	line:19
+EEPROM_Read	C:\Users\Siva\Documents\PIC16F877A\EEPROM\eeprom.c	4;"	p	line:4	file:	signature:(int)
+EEPROM_Write	C:\Users\Siva\Documents\PIC16F877A\EEPROM\eeprom.c	3;"	p	line:3	file:	signature:(int,char)
+EEPROM_WriteString	C:\Users\Siva\Documents\PIC16F877A\EEPROM\eeprom.c	5;"	p	line:5	file:	signature:(int,char*)
+MSdelay	C:\Users\Siva\Documents\PIC16F877A\EEPROM\eeprom.c	13;"	p	line:13	file:	signature:(unsigned int val)
+MSdelay	C:\Users\Siva\Documents\PIC16F877A\EEPROM\eeprom.c	74;"	f	line:74	signature:(unsigned int val)
+USART_Init	C:\Users\Siva\Documents\PIC16F877A\EEPROM\eeprom.c	38;"	f	line:38	signature:(int baud_rate)
+USART_Init	C:\Users\Siva\Documents\PIC16F877A\EEPROM\eeprom.c	9;"	p	line:9	file:	signature:(int)
+USART_ReceiveChar	C:\Users\Siva\Documents\PIC16F877A\EEPROM\eeprom.c	11;"	p	line:11	file:
+USART_ReceiveChar	C:\Users\Siva\Documents\PIC16F877A\EEPROM\eeprom.c	49;"	f	line:49
+USART_SendString	C:\Users\Siva\Documents\PIC16F877A\EEPROM\eeprom.c	12;"	p	line:12	file:	signature:(char *)
+USART_SendString	C:\Users\Siva\Documents\PIC16F877A\EEPROM\eeprom.c	63;"	f	line:63	signature:(char *out)
+USART_TransmitChar	C:\Users\Siva\Documents\PIC16F877A\EEPROM\eeprom.c	10;"	p	line:10	file:	signature:(char)
+USART_TransmitChar	C:\Users\Siva\Documents\PIC16F877A\EEPROM\eeprom.c	56;"	f	line:56	signature:(char out)
+i	C:\Users\Siva\Documents\PIC16F877A\EEPROM\eeprom.c	17;"	l	line:17
+i	C:\Users\Siva\Documents\PIC16F877A\EEPROM\eeprom.c	76;"	l	line:76
+j	C:\Users\Siva\Documents\PIC16F877A\EEPROM\eeprom.c	76;"	l	line:76
+main	C:\Users\Siva\Documents\PIC16F877A\EEPROM\eeprom.c	15;"	f	line:15
+temp	C:\Users\Siva\Documents\PIC16F877A\EEPROM\eeprom.c	40;"	l	line:40

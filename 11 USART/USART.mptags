@@ -1,0 +1,24 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+EN::RE0	C:\Users\Siva\Documents\PIC16F877A\USART\usart.c	4;"	d	line:4	file:
+LCD::PORTD	C:\Users\Siva\Documents\PIC16F877A\USART\usart.c	3;"	d	line:3	file:
+RS::RE2	C:\Users\Siva\Documents\PIC16F877A\USART\usart.c	6;"	d	line:6	file:
+RW::RE1	C:\Users\Siva\Documents\PIC16F877A\USART\usart.c	5;"	d	line:5	file:
+_XTAL_FREQ::80000000	C:\Users\Siva\Documents\PIC16F877A\USART\usart.c	2;"	d	line:2	file:
+a	C:\Users\Siva\Documents\PIC16F877A\USART\usart.c	8;"	v	line:8
+address	C:\Users\Siva\Documents\PIC16F877A\USART\usart.c	26;"	f	line:26	signature:(unsigned char t)
+display	C:\Users\Siva\Documents\PIC16F877A\USART\usart.c	36;"	f	line:36	signature:(unsigned char b)
+displaystring	C:\Users\Siva\Documents\PIC16F877A\USART\usart.c	46;"	f	line:46	signature:(const unsigned char* s)
+flag	C:\Users\Siva\Documents\PIC16F877A\USART\usart.c	8;"	v	line:8
+increment	C:\Users\Siva\Documents\PIC16F877A\USART\usart.c	8;"	v	line:8
+main	C:\Users\Siva\Documents\PIC16F877A\USART\usart.c	71;"	f	line:71
+receive	C:\Users\Siva\Documents\PIC16F877A\USART\usart.c	9;"	v	line:9
+sentByteSerial	C:\Users\Siva\Documents\PIC16F877A\USART\usart.c	14;"	f	line:14	signature:(unsigned char Byte)
+sentStringSerial	C:\Users\Siva\Documents\PIC16F877A\USART\usart.c	19;"	f	line:19	signature:(const unsigned char* st)
+timer_isr	C:\Users\Siva\Documents\PIC16F877A\USART\usart.c	53;"	f	line:53
